@@ -1,0 +1,6 @@
+build/*
+.classpath
+/bin/
+ScreenShots/*
+.classpath
+Configuration/*

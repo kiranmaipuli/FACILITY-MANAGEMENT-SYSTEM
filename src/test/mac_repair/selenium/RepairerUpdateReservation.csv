@@ -1,0 +1,5 @@
+1,rrrrrr_10,Yash@1,IVBC,01122019	0800PM,2 hours,Start date cannot be in the past
+2,rrrrrr_10,Yash@1,IVBC,,2 hours,Start time is empty or invalid
+3,rrrrrr_10,Yash@1,IVBC,02122019	0800PM,2 hours,Start time should be current date for single day reservation
+4,rrrrrr_10,Yash@1,IVBC,01122019	1100PM,1 hour,
+5,rrrrrr_10,Yash@1,OBBC,03122019	0600AM,1 day,
